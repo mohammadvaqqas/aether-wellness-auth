@@ -4,17 +4,14 @@ A responsive, botanical-inspired **Sign In & Sign Up** web interface built with 
 
 ## ✨ Features
 - **Botanical Aesthetic**: Minimalist, serene earthen theme inspired by mindful wellness rituals.
-- **Zero Scroll Design**: Compact viewport layout designed to fit fully without vertical scrolling on desktop screens.
-- **Pure Web Tech**: 100% handcrafted HTML, CSS (CSS variables, flexbox), and vanilla JS — no external frameworks required.
+- **Pure Web Tech**: 100% handcrafted HTML, CSS (CSS variables, flexbox), and JS — no external frameworks required.
 - **Interactive UI**:
   - Smooth tab switching between **Sign Up** and **Sign In**.
   - Animated notification alerts on form submission.
-  - Micro-interactions on navigation and footer links with anti-blur GPU optimizations.
 - **Responsive**: Clean presentation across desktop and mobile devices.
 
 ## 🚀 Live Demo
-Once deployed on GitHub Pages, your live link will be:
-`https://<your-username>.github.io/<repo-name>/`
+https://mohammadvaqqas.github.io/aether-wellness-auth/
 
 ## 📂 Project Structure
 ```text
