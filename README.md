@@ -18,6 +18,8 @@ https://mohammadvaqqas.github.io/aether-wellness-auth/
 ├── index.html        # Main HTML markup
 ├── style.css         # Styling, CSS variables, and layout
 ├── script.js         # Tab switching and form interaction logic
-├── aether logo.png   # Brand logo asset
+├── aether-logo.png  # Brand logo asset (optimized)
+├── aether-logo.webp # WebP brand logo
+├── favicon.png      # Favicon asset
 └── README.md         # Documentation
 ```
